@@ -1,0 +1,15 @@
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\MonitorObjectDemo\bin\Debug\net8.0\MonitorObjectDemo.exe
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\MonitorObjectDemo\bin\Debug\net8.0\MonitorObjectDemo.deps.json
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\MonitorObjectDemo\bin\Debug\net8.0\MonitorObjectDemo.runtimeconfig.json
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\MonitorObjectDemo\bin\Debug\net8.0\MonitorObjectDemo.dll
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\MonitorObjectDemo\bin\Debug\net8.0\MonitorObjectDemo.pdb
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\MonitorObjectDemo\obj\Debug\net8.0\MonitorObjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\MonitorObjectDemo\obj\Debug\net8.0\MonitorObjectDemo.AssemblyInfoInputs.cache
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\MonitorObjectDemo\obj\Debug\net8.0\MonitorObjectDemo.AssemblyInfo.cs
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\MonitorObjectDemo\obj\Debug\net8.0\MonitorObjectDemo.csproj.CoreCompileInputs.cache
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\MonitorObjectDemo\obj\Debug\net8.0\MonitorObjectDemo.sourcelink.json
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\MonitorObjectDemo\obj\Debug\net8.0\MonitorObjectDemo.dll
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\MonitorObjectDemo\obj\Debug\net8.0\refint\MonitorObjectDemo.dll
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\MonitorObjectDemo\obj\Debug\net8.0\MonitorObjectDemo.pdb
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\MonitorObjectDemo\obj\Debug\net8.0\MonitorObjectDemo.genruntimeconfig.cache
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\MonitorObjectDemo\obj\Debug\net8.0\ref\MonitorObjectDemo.dll
