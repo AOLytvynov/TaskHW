@@ -1,0 +1,15 @@
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\CompositeDemo\bin\Debug\net8.0\CompositeDemo.exe
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\CompositeDemo\bin\Debug\net8.0\CompositeDemo.deps.json
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\CompositeDemo\bin\Debug\net8.0\CompositeDemo.runtimeconfig.json
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\CompositeDemo\bin\Debug\net8.0\CompositeDemo.dll
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\CompositeDemo\bin\Debug\net8.0\CompositeDemo.pdb
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\CompositeDemo\obj\Debug\net8.0\CompositeDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\CompositeDemo\obj\Debug\net8.0\CompositeDemo.AssemblyInfoInputs.cache
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\CompositeDemo\obj\Debug\net8.0\CompositeDemo.AssemblyInfo.cs
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\CompositeDemo\obj\Debug\net8.0\CompositeDemo.csproj.CoreCompileInputs.cache
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\CompositeDemo\obj\Debug\net8.0\CompositeDemo.sourcelink.json
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\CompositeDemo\obj\Debug\net8.0\CompositeDemo.dll
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\CompositeDemo\obj\Debug\net8.0\refint\CompositeDemo.dll
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\CompositeDemo\obj\Debug\net8.0\CompositeDemo.pdb
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\CompositeDemo\obj\Debug\net8.0\CompositeDemo.genruntimeconfig.cache
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\CompositeDemo\obj\Debug\net8.0\ref\CompositeDemo.dll
