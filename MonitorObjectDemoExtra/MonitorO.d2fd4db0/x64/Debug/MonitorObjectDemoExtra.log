@@ -1,0 +1,4 @@
+﻿  MonitorObjectDemoExtra.cpp
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\MonitorObjectDemoExtra\MonitorObjectDemoExtra.cpp(15,36): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1251)
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\MonitorObjectDemoExtra\MonitorObjectDemoExtra.cpp(19,36): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1251)
+  MonitorObjectDemoExtra.vcxproj -> D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\MonitorObjectDemoExtra\x64\Debug\MonitorObjectDemoExtra.exe
