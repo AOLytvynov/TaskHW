@@ -1,0 +1,15 @@
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\PrototypeDemo\bin\Debug\net8.0\PrototypeDemo.exe
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\PrototypeDemo\bin\Debug\net8.0\PrototypeDemo.deps.json
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\PrototypeDemo\bin\Debug\net8.0\PrototypeDemo.runtimeconfig.json
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\PrototypeDemo\bin\Debug\net8.0\PrototypeDemo.dll
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\PrototypeDemo\bin\Debug\net8.0\PrototypeDemo.pdb
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\PrototypeDemo\obj\Debug\net8.0\PrototypeDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\PrototypeDemo\obj\Debug\net8.0\PrototypeDemo.AssemblyInfoInputs.cache
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\PrototypeDemo\obj\Debug\net8.0\PrototypeDemo.AssemblyInfo.cs
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\PrototypeDemo\obj\Debug\net8.0\PrototypeDemo.csproj.CoreCompileInputs.cache
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\PrototypeDemo\obj\Debug\net8.0\PrototypeDemo.sourcelink.json
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\PrototypeDemo\obj\Debug\net8.0\PrototypeDemo.dll
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\PrototypeDemo\obj\Debug\net8.0\refint\PrototypeDemo.dll
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\PrototypeDemo\obj\Debug\net8.0\PrototypeDemo.pdb
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\PrototypeDemo\obj\Debug\net8.0\PrototypeDemo.genruntimeconfig.cache
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\PrototypeDemo\obj\Debug\net8.0\ref\PrototypeDemo.dll
