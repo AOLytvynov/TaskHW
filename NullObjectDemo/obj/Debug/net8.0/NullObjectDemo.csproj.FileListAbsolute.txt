@@ -1,0 +1,15 @@
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\NullObjectDemo\bin\Debug\net8.0\NullObjectDemo.exe
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\NullObjectDemo\bin\Debug\net8.0\NullObjectDemo.deps.json
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\NullObjectDemo\bin\Debug\net8.0\NullObjectDemo.runtimeconfig.json
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\NullObjectDemo\bin\Debug\net8.0\NullObjectDemo.dll
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\NullObjectDemo\bin\Debug\net8.0\NullObjectDemo.pdb
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\NullObjectDemo\obj\Debug\net8.0\NullObjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\NullObjectDemo\obj\Debug\net8.0\NullObjectDemo.AssemblyInfoInputs.cache
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\NullObjectDemo\obj\Debug\net8.0\NullObjectDemo.AssemblyInfo.cs
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\NullObjectDemo\obj\Debug\net8.0\NullObjectDemo.csproj.CoreCompileInputs.cache
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\NullObjectDemo\obj\Debug\net8.0\NullObjectDemo.sourcelink.json
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\NullObjectDemo\obj\Debug\net8.0\NullObjectDemo.dll
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\NullObjectDemo\obj\Debug\net8.0\refint\NullObjectDemo.dll
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\NullObjectDemo\obj\Debug\net8.0\NullObjectDemo.pdb
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\NullObjectDemo\obj\Debug\net8.0\NullObjectDemo.genruntimeconfig.cache
+D:\Мої файли\Навчання\Архітектура та проектування програмного забезпечення .Net\Проєкти\Git\TaskHW\NullObjectDemo\obj\Debug\net8.0\ref\NullObjectDemo.dll
